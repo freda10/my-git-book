@@ -1,6 +1,6 @@
 #Waveguides
 
-###To do list for git
+### To do list for git
 
 -[ ]'git init'
 -[ ]touch README.md
